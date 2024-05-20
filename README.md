@@ -39,16 +39,6 @@ Join me on LinkedIn, where I share insights, victories, and even the occasional 
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=s-mujtaba-haider&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-
-
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=s-mujtaba-haider&show_icons=true&theme=vision-friendly-dark">
