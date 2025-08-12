@@ -1,4 +1,4 @@
-# 👋 Hi, I'm S. Mujtaba Haider
+# 👋 Hi, I'm Mujtaba Haider
 
 I'm a passionate **Data Scientist** with a knack for **predictive analytics**, specializing in **RNN** and **LSTM models** for time-series and sequence prediction.  
 I thrive on solving **regression tasks** and exploring the fascinating world of **reinforcement learning (RL)**.
