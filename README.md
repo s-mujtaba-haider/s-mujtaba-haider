@@ -1,4 +1,4 @@
-# ​ Hi, I'm Mujtaba Haider
+# 👋 Hi, I'm Mujtaba Haider
 
 I'm a passionate **Data Scientist** with a knack for **predictive analytics**, specializing in **RNN** and **LSTM models** for time-series and sequence prediction.  
 I thrive on solving **regression tasks** and exploring the fascinating world of **reinforcement learning (RL)**.
@@ -10,18 +10,16 @@ Alongside my expertise in **classical machine learning** and **deep learning** (
 ⛓️ I also work on **smart contract** development and blockchain applications.
 
 ⌨️ In my free time, I sharpen my **problem-solving skills** on **LeetCode**, tackling topics like **Divide and Conquer**, **Dynamic Programming**, **Trie**, **Math**, **Tree**, **Binary Tree**, **Array**, **String**, and **Two Pointers**.  
-[Check out my LeetCode profile](https://leetcode.com/u/s-mujtaba-haider/)
 
 ---
 
-## ​ Social Media  
-Join me on LinkedIn, where I share insights, victories, and even the occasional setback.  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/s-mujtaba-haider/)
+## 📡 Social Media  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/s-mujtaba-haider/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/s-mujtaba-haider/)
 
 ---
 
-## ​​ Languages and Tools
+## 🛠️ Languages and Tools
 
 ### **Languages**
 | Python3 | C | Java | JavaScript | TypeScript |
@@ -59,8 +57,3 @@ Join me on LinkedIn, where I share insights, victories, and even the occasional 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=s-mujtaba-haider&style=for-the-badge&color=orange" alt=""/>
 </div>
-
----
-
-## ​ How to reach me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/s-mujtaba-haider/)
