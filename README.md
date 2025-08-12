@@ -14,7 +14,7 @@ Alongside my expertise in **classical machine learning** and **deep learning** (
 ---
 
 ## 📡 Social Media  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/s-mujtaba-haider/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/s-mujtaba-haider/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/s-mujtaba-haider/)
 
 ---
@@ -36,9 +36,9 @@ Alongside my expertise in **classical machine learning** and **deep learning** (
 ---
 
 ### **Data & Dev Tools**
-| Conda | Jupyter | Spark | MySQL | SQLite | Git | Docker |
-|-------|---------|-------|-------|--------|-----|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55"/> |
+| Conda | Jupyter | Spark | MySQL | SQLite | Git | GitHub | Docker |
+|-------|---------|-------|-------|--------|-----|--------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55"/> |
 
 ---
 
