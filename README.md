@@ -1,50 +1,52 @@
 # 👋 Hi, I'm Mujtaba Haider
 
-I'm a passionate **Data Scientist** with a knack for **predictive analytics**, specializing in **RNN** and **LSTM models** for time-series and sequence prediction.  
-I thrive on solving **regression tasks** and exploring the fascinating world of **reinforcement learning (RL)**.
+I’m a **Data Scientist & AI Enthusiast** who loves turning data into actionable insights and building intelligent systems that actually make a difference. From **time-series predictions with RNNs/LSTMs** to **reinforcement learning experiments**, I thrive on tackling challenging problems and bringing ideas to life.
 
-Alongside my expertise in **classical machine learning** and **deep learning** (ML/DL), I leverage my strong mathematical foundation to build practical, high-impact solutions.
+💡 **What drives me:** Solving regression tasks, exploring **Generative AI**, and building pipelines that fuse ML/DL models, **RAG systems**, and **smart automation workflows**. I also enjoy dabbling in **smart contracts** and blockchain projects.
 
-💼 I have worked extensively on **ERP** and **CRM** software solutions, contributing to both backend and frontend development.  
-🧠 Currently, I'm exploring **Generative AI**, creating projects with **ML models**, **DL models**, **RAG pipelines**, and cutting-edge AI architectures.  
-⛓️ I also work on **smart contract** development and blockchain applications.
+💻 **Hands-on experience:** I’ve contributed to **ERP and CRM platforms**, from backend APIs to interactive frontend interfaces. Lately, I’m diving deep into **AI-powered search, automated workflows with LangChain & N8n, and cutting-edge ML architectures**.
 
-⌨️ In my free time, I sharpen my **problem-solving skills** on **LeetCode**, tackling topics like **Divide and Conquer**, **Dynamic Programming**, **Trie**, **Math**, **Tree**, **Binary Tree**, **Array**, **String**, and **Two Pointers**.  
+⌨️ **Side quests:** Sharpening my coding and problem-solving skills on **LeetCode**, tackling algorithms and data structures like **Dynamic Programming, Divide & Conquer, Tries, Trees, Arrays, Strings**, and more.
 
 ---
 
-## 📡 Social Media  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/s-mujtaba-haider/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/s-mujtaba-haider/)
+## 📡 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/s-mujtaba-haider/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat\&logo=leetcode)](https://leetcode.com/u/s-mujtaba-haider/)
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 ### **Languages**
-| Python3 | C | Java | JavaScript | TypeScript |
-|---------|---|------|------------|------------|
+
+| Python3                                                                                                  | C                                                                                              | Java                                                                                                 | JavaScript                                                                                                       | TypeScript                                                                                                       |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55"/> |
 
 ---
 
 ### **Frameworks & Libraries**
-| PyTorch | Selenium | Numpy | Pandas | Scikit-learn | Matplotlib | OpenCV | Spring Boot | Next.js | React.js | Node.js | Express.js |
-|---------|----------|-------|--------|--------------|------------|--------|-------------|---------|----------|---------|------------|
+
+| PyTorch                                                                                                    | Selenium                                                                                                     | Numpy                                                                                                           | Pandas                                                                                                   | Scikit-learn                                                                                                       | Matplotlib                                                                                                       | OpenCV                                                                                                   | Spring Boot                                                                                              | Next.js                                                                                                  | React.js                                                                                               | Node.js                                                                                                  | Express.js                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55"/> |
 
 ---
 
 ### **Data & Dev Tools**
-| Conda | Jupyter | Spark | MySQL | SQLite | Git | GitHub | Docker |
-|-------|---------|-------|-------|--------|-----|--------|--------|
+
+| Conda                                                                                                                 | Jupyter                                                                                                             | Spark                                                                                                                       | MySQL                                                                                                           | SQLite                                                                                                            | Git                                                                                                | GitHub                                                                                                   | Docker                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55"/> |
 
 ---
 
 ### **Operating Systems**
-| Linux | Ubuntu | Kali | Windows |
-|-------|--------|------|---------|
+
+| Linux                                                                                                  | Ubuntu                                                                                                   | Kali                                                                                                                                 | Windows                                                                                                      |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="55"/> |
 
 ---
