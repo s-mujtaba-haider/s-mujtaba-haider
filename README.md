@@ -59,7 +59,7 @@ I’m a **Data Scientist, AI Engineer, and Full-Stack Problem Solver** passionat
 
 | N8n | Zapier                                                         | Make.com | LangChain                                                          | LangGraph                                                               |
 | --- | -------------------------------------------------------------- | -------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| N8n | <img src="https://img.icons8.com/color/48/000000/zapier.png"/> | Make.com | <img src="https://img.icons8.com/ios-filled/50/000000/brain.png"/> | <img src="https://img.icons8.com/ios-filled/50/000000/flow-chart.png"/> |
+| n8n | <img src="https://img.icons8.com/color/48/000000/zapier.png"/> | Make.com | <img src="https://img.icons8.com/ios-filled/50/000000/brain.png"/> | <img src="https://img.icons8.com/ios-filled/50/000000/flow-chart.png"/> |
 
 ---
 
