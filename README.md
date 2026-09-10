@@ -1,72 +1,58 @@
-# 👋 Hi, I'm Mujtaba Haider
+# Mujtaba Haider
 
-I’m a **Data Scientist, AI Engineer, and Full-Stack Problem Solver** passionate about building **intelligent, scalable, and automated solutions**. I thrive at the intersection of **data, AI, and software engineering**, turning complex problems into impactful results.
+**AI Engineer & Full-Stack Developer** — computer vision, LLM applications, AI agents, workflow automation and data engineering. I build systems that run in production, not notebooks that run once.
 
-💡 **What drives me:** From **time-series predictions with RNNs/LSTMs** to **reinforcement learning experiments**, I love solving regression tasks, building **Generative AI pipelines**, and deploying ML/DL models that actually work in production.
-
-💻 **Hands-on experience:**
-
-* **AI & ML:** RNNs, LSTMs, Transformers, Deep Learning, Classical ML, Reinforcement Learning, Generative AI, RAG pipelines, LangChain, LangGraph.
-* **Backend & APIs:** Node.js, FastAPI, Django, Flask, Express.js — building RESTful APIs, microservices, and robust backend architectures.
-* **Frontend & Full-Stack:** React.js, Next.js, interactive dashboards, ERP/CRM platforms.
-* **Data Engineering & Cloud:** ETL/ELT pipelines, Azure, AWS, Spark, MySQL, PostgreSQL, SQLite, Conda, Jupyter, Docker — moving data seamlessly from source to insights.
-* **Workflow Automation & Integrations:** N8n, Zapier, Make.com — automating repetitive tasks, integrating apps, and building intelligent workflow pipelines.
-* **DevOps & Deployment:** Nginx, Docker, CI/CD pipelines, Linux/Ubuntu/Kali/Windows environments — ensuring smooth deployment and scaling of apps.
-* **Visualization & Analytics:** Matplotlib, Pandas, NumPy, Seaborn — turning data into actionable stories.
-
-⚡ **What I enjoy building:** AI-powered search engines, recommendation systems, RAG-based knowledge pipelines, automated lead extraction workflows, and blockchain-enabled smart contracts.
-
-⌨️ **Side quests:** Sharpening my **problem-solving skills** on **LeetCode**, tackling topics like **Dynamic Programming, Divide & Conquer, Tries, Trees, Arrays, Strings**, and more.
-
-🌐 I love connecting **data, AI, and business logic**, and creating end-to-end solutions that are **practical, scalable, and future-ready**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-mujtabahaider.com-4A43E2?style=flat-square)](https://mujtabahaider.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-mujtaba-haider/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mujtabahayder)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20me-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/mujtaba_zaidy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/s-mujtaba-haider/)
 
 ---
 
-## 📡 Connect with Me
+### Right now
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/s-mujtaba-haider/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat\&logo=leetcode)](https://leetcode.com/u/s-mujtaba-haider/)
-
----
-
-## 🛠️ Languages & Tools
-
-### **Languages**
-
-| Python3                                                                                                  | C                                                                                              | Java                                                                                                 | JavaScript                                                                                                       | TypeScript                                                                                                       |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55"/> |
+- **Generative AI Engineer @ Tekvix** — backend APIs, data pipelines, RAG systems and agents for real estate and PropTech, built on LangChain, LangGraph, LangSmith and Neo4j, plus n8n automation wired into GoHighLevel, Mautic and Sierra.
+- **Freelance on Upwork & Fiverr** — AI agents, automation, RAG pipelines and full-stack builds. Every contract completed to date is rated 5.0.
+- **BS Data Science, FAST NUCES** (2021–2025).
 
 ---
 
-### **Frameworks & Libraries**
+## Selected work
 
-| PyTorch                                                                                                    | Selenium                                                                                                     | Numpy                                                                                                           | Pandas                                                                                                   | Scikit-learn                                                                                                       | Matplotlib                                                                                                       | OpenCV                                                                                                   | Spring Boot                                                                                              | Next.js                                                                                                  | React.js                                                                                               | Node.js                                                                                                  | Express.js                                                                                                 | FastAPI                                                                                                    | Django | Flask                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="55"/> | Django | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55"/> |
+Full case studies — architecture, trade-offs and what broke — at **[mujtabahaider.com/projects](https://mujtabahaider.com/projects)**.
 
----
+| Project | What it does | Links |
+| --- | --- | --- |
+| **TradesBrain** | Production React Native app for plumbers and electricians. An AI co-pilot takes a photo or voice note from the job site, walks through diagnosis, looks up trade code via a pgvector RAG index, and turns the session into a locked job report or quote. Supabase, Stripe, Stripe Identity KYC. | [Case study](https://mujtabahaider.com/projects/tradesbrain) · *client repo, private* |
+| **CricketVision AI** | Turns raw cricket video into a queryable per-delivery dataset — YOLO detection, ByteTrack, ball-trajectory reconstruction with Kalman filtering, pose-based technique features and shot classification. | [Repo](https://github.com/s-mujtaba-haider/Cricket-Vision-AI) · [Case study](https://mujtabahaider.com/projects/cricketvision-ai) |
+| **AI Technical Co-Founder** | Autonomous multi-agent system that analyses a startup idea, designs the architecture, generates backend structure and Docker/deploy configs, then reads production logs and suggests improvements. | [Repo](https://github.com/s-mujtaba-haider/AI-Technical-Co-Founder-Platform) · [Case study](https://mujtabahaider.com/projects/ai-technical-co-founder) |
+| **Call Intelligence Pipeline** | End-to-end n8n system turning raw call webhooks into structured insight, stored as a Neo4j graph for relationship queries across callers and outcomes. | [Repo](https://github.com/s-mujtaba-haider/End-to-End-Call-Processing-Pipeline-with-Neo4j-Graph-AI-Insights) · [Case study](https://mujtabahaider.com/projects/call-intelligence-neo4j) |
+| **ContentOps Review Automation** | Removes the reviewer↔editor loop: a comment on an Asana task becomes the instruction — AI rewrites the draft, handles the featured image, pushes to WordPress and confirms back. | [Repo](https://github.com/s-mujtaba-haider/ContentOps-Review-Automation) · [Case study](https://mujtabahaider.com/projects/contentops-review-automation) |
+| **Sales Forecasting Warehouse** | Python cleaning → SQL Server dimensional warehouse → SSIS ETL → ML forecast → Power BI dashboards for actual vs forecast and stock planning. | [Repo](https://github.com/s-mujtaba-haider/End-to-End-Sales-Forecasting-Data-Warehouse-Solution) · [Case study](https://mujtabahaider.com/projects/sales-forecasting-data-warehouse) |
 
-### **Data & Dev Tools**
-
-| Conda                                                                                                                 | Jupyter                                                                                                             | Spark                                                                                                                       | MySQL                                                                                                           | PostgreSQL                                                                                                                | SQLite                                                                                                            | Git                                                                                                | GitHub                                                                                                   | Docker                                                                                                   | Azure                                                                                                  | ETL/ELT                                                                                            | Nginx                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="55"/> | ETL/ELT | <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="55"/> |
-
----
-
-### **Workflow Automation & AI Tools**
-
-| N8n | Zapier                                                         | Make.com | LangChain                                                          | LangGraph                                                               |
-| --- | -------------------------------------------------------------- | -------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| n8n | <img src="https://img.icons8.com/color/48/000000/zapier.png"/> | make.com | <img src="https://img.icons8.com/ios-filled/50/000000/brain.png"/> | <img src="https://img.icons8.com/ios-filled/50/000000/flow-chart.png"/> |
+Also public: [ChatCraftAI](https://github.com/s-mujtaba-haider/ChatCraftAI) · [TravelMate](https://github.com/s-mujtaba-haider/TravelMate-FYP) · [Azure Data Engineering](https://github.com/s-mujtaba-haider/Azure-Data-Engineering-Full-Stack-Project) · [Face Analysis](https://github.com/s-mujtaba-haider/AI-Powered-Face-Analysis-System) · [Secure File Sharing](https://github.com/s-mujtaba-haider/Secure-File-Sharing-System-FLASK) · [BloodLink](https://github.com/s-mujtaba-haider/BloodLink) · [n8n workflow collection](https://github.com/s-mujtaba-haider?tab=repositories)
 
 ---
 
-### **Operating Systems**
+## What I work with
 
-| Linux                                                                                                  | Ubuntu                                                                                                   | Kali                                                                                                                                 | Windows                                                                                                      |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="55"/> |
+**AI & ML** — PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, YOLO, RNN/LSTM/Transformers, reinforcement learning, NLTK, SpaCy
+
+**Generative AI** — LangChain, LangGraph, LangSmith, RAG, multi-agent systems, Claude Agents & Skills, MCP servers, OpenAI / Anthropic APIs, Neo4j, pgvector
+
+**Backend & Full-Stack** — Python, TypeScript, FastAPI, Django, Flask, Node.js, Express, Next.js, React, React Native, REST APIs
+
+**Data & Cloud** — SQL Server, PostgreSQL, MySQL, Supabase, Spark, Hadoop, ETL/ELT, SSIS, Azure, AWS, Google Cloud, Power BI
+
+**Automation** — n8n, Zapier, Make.com, GoHighLevel, Mautic, Sierra Interactive, Airtable, webhooks, Slack & Gmail APIs
+
+**DevOps** — Docker, Nginx, CI/CD, Git, Linux
 
 ---
+
+## Open to
+
+Freelance contracts, retainers and full-time roles — AI engineering, automation, RAG systems, computer vision and full-stack product work.
+
+**[mujtabahaider.com](https://mujtabahaider.com)** · [Get in touch](https://mujtabahaider.com/contact)
