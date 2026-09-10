@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mujtaba Haider
 
+🌐 **Portfolio — [mujtabahaider.com](https://mujtabahaider.com)** · available for freelance & full-time work.
+
 I’m a **Data Scientist, AI Engineer, and Full-Stack Problem Solver** passionate about building **intelligent, scalable, and automated solutions**. I thrive at the intersection of **data, AI, and software engineering**, turning complex problems into impactful results.
 
 💡 **What drives me:** From **time-series predictions with RNNs/LSTMs** to **reinforcement learning experiments**, I love solving regression tasks, building **Generative AI pipelines**, and deploying ML/DL models that actually work in production.
@@ -24,6 +26,7 @@ I’m a **Data Scientist, AI Engineer, and Full-Stack Problem Solver** passionat
 
 ## 📡 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mujtabahaider.com-4a43e2?style=flat\&logo=googlechrome\&logoColor=white)](https://mujtabahaider.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/s-mujtaba-haider/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat\&logo=leetcode)](https://leetcode.com/u/s-mujtaba-haider/)
 
